@@ -27,6 +27,17 @@
 7. [Generate an Array of All Object Keys with Object.keys()](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/generate-an-array-of-all-object-keys-with-object-keys)
 8. [Modify an Array Stored in an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-array-stored-in-an-object)
 
+### Day 2: July 4, 2023, Tuesday (Basic Algorithm Scripting)
+
+**Today's Progress**: I've gone any exercises on FreeCodeCamp.
+
+**Thoughts** Today I got stuck for hours on the Factorialize a Number challenge and thanks to the help of the programming help channel on discord I was able to get through it. After this I felt great. My thanks to the people who offer their help in these channels for their understanding, work and dedication.
+
+**Link(s) to work**
+1. [Convert Celsius to Fahrenheit](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/convert-celsius-to-fahrenheit)
+2. [Reverse a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string)
+3. [Factorialize a Number](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number)
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
