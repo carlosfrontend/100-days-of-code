@@ -38,6 +38,12 @@
 2. [Reverse a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string)
 3. [Factorialize a Number](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number)
 
+### Day 3: July 5, 2023, Wednesday (Fundamentals Part 3)
+
+**Today's Progress**: I finished [Fundamentals Part 3](https://www.theodinproject.com/lessons/foundations-fundamentals-part-3) capitule in The Odin Projects about functions.
+
+**Thoughts** It has been a day full of theory. I was also practicing functions and watched a video about call stacks and how ```return``` works in the context of chained function calls.
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
