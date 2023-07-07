@@ -44,6 +44,29 @@
 
 **Thoughts** It has been a day full of theory. I was also practicing functions and watched a video about call stacks and how ```return``` works in the context of chained function calls.
 
+### Day 4: July 6, 2023, Thursday (Basic Algorithm Scripting)
+
+**Today's Progress**: I've solved several exercises on FreeCodeCamp..
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string)
+2. [Return Largest Numbers in Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays)
+3. [Confirm the Ending](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/confirm-the-ending)
+4. [Repeat a String Repeat a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string)
+5. [Truncate a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string)
+
+<!-- ### Day 4: July 7, 2023, Wednesday (Basic Algorithm Scripting)
+
+**Today's Progress**: I've solved other two exercises on FreeCodeCamp.
+
+**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+**Link(s) to work**
+1. [Find the Longest Word in a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string)
+2. [Return Largest Numbers in Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays) -->
+
 <!-- ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
