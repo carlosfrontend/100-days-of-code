@@ -59,7 +59,7 @@
 
 ### Day 5: July 7, 2023, Friday (Basic Algorithm Scripting)
 
-**Today's Progress**: Hoy continúo con scripts de algoritmos básicos en FreeCodeCamp.
+**Today's Progress**: Today I continue with basic algorithm scripts on FreeCodeCamp.
 
 **Thoughts** They were quite difficult and left me exhausted. I hope I can finish the remaining three of this theme in the next round.
 
