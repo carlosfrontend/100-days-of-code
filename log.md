@@ -46,7 +46,7 @@
 
 ### Day 4: July 6, 2023, Thursday (Basic Algorithm Scripting)
 
-**Today's Progress**: I've solved several exercises on FreeCodeCamp..
+**Today's Progress**: I've solved several exercises on FreeCodeCamp.
 
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
@@ -57,22 +57,24 @@
 4. [Repeat a String Repeat a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/repeat-a-string-repeat-a-string)
 5. [Truncate a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/truncate-a-string)
 
-<!-- ### Day 4: July 7, 2023, Wednesday (Basic Algorithm Scripting)
+### Day 5: July 7, 2023, Friday (Basic Algorithm Scripting)
 
-**Today's Progress**: I've solved other two exercises on FreeCodeCamp.
+**Today's Progress**: Hoy continúo con scripts de algoritmos básicos en FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string)
-2. [Return Largest Numbers in Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays) -->
-
-<!-- ### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** They were quite difficult and left me exhausted. I hope I can finish the remaining three of this theme in the next round.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence) -->
+1. [Finders Keepers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)
+2. [Boo Who](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/boo-who)
+3. [Title Case a Sentence](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)
+4. [Slice and Splice](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice)
+5. [Falsy Bouncer](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer)
+
+<!-- ### Day 6: July 8, 2023, Saturday (Basic Algorithm Scripting)
+
+**Today's Progress**: Hoy continúo con scripts de algoritmos básicos en FreeCodeCamp.
+
+**Thoughts** They were quite difficult and left me exhausted. I hope I can finish the remaining three of this theme in the next round.
+
+**Link(s) to work**
+1. [Finders Keepers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers) -->
