@@ -70,7 +70,25 @@
 4. [Slice and Splice](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/slice-and-splice)
 5. [Falsy Bouncer](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/falsy-bouncer)
 
-<!-- ### Day 6: July 8, 2023, Saturday (Basic Algorithm Scripting)
+### Day 6: July 8, 2023, Saturday (Basic Algorithm Scripting)
+
+**Today's Progress**: Today I continue with basic algorithm scripts in FreeCodeCamp.
+
+**Thoughts** I finally finished the three exercises that I had left of this subject. I feel much better after completing this phase.
+I struggled a long time with "Where do I Belong" because I wanted to solve it without using ```sort()```. After a lot of fighting I finally had to use it because it seemed extremely difficult without it.
+
+**Link(s) to work**
+1. [Where do I Belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
+2. [Mutations](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations)
+3. [Chunky Monkey](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey)
+
+### Day 7: July 9, 2023, Sunday (Front End Development Libraries)
+
+**Today's Progress**: I did the Bootstrap course at FreeCodeCamp.
+
+**Thoughts** It was very comfortable for me because I already knew him and hadn't played with him for a long time. It has helped me a lot to refresh concepts.
+
+<!-- ### Day 8: July 10, 2023, Monday ()
 
 **Today's Progress**: Hoy continúo con scripts de algoritmos básicos en FreeCodeCamp.
 
