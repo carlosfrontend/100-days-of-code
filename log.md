@@ -88,11 +88,26 @@ I struggled a long time with "Where do I Belong" because I wanted to solve it wi
 
 **Thoughts** It was very comfortable for me because I already knew him and hadn't played with him for a long time. It has helped me a lot to refresh concepts.
 
-<!-- ### Day 8: July 10, 2023, Monday ()
+### Day 8: July 10, 2023, Monday (Javascript Basics)
 
-**Today's Progress**: Hoy continúo con scripts de algoritmos básicos en FreeCodeCamp.
+**Today's Progress**: I have read various troubleshooting guides and watched a video on this issue. I learned to use a sheet of paper and a pen to first write what the problem is about and explain it in a human way before starting to code. I also understood that the best way to deal with the problem is to divide it into subproblems, what is the pseudocode and how good it is to use comments so that other programmers or oneself understand what is desired with the algorithm to be programmed.
 
-**Thoughts** They were quite difficult and left me exhausted. I hope I can finish the remaining three of this theme in the next round.
+I kept learning about errors and debugging in the odin project. I was debugging some exercises with the Chrome Dev Tool learning about the difference between an error and a warning and different types of errors like:
+- Syntax Error
+- Reference Error
+- Type Error
+
+**Thoughts** I understood that before programming an algorithm it is better to stop and think about how you would tell someone else about its development so that they understand it and put it on paper. Breaking this down into tiny bits and using pseudocode for it is the best way to go about it and not go blank in front of the code editor. It is a good starting point!.
 
 **Link(s) to work**
-1. [Finders Keepers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers) -->
+1. [Problem Solving](https://www.theodinproject.com/lessons/foundations-problem-solving)
+2. [Understanding Errors](https://www.theodinproject.com/lessons/foundations-understanding-errors)
+
+<!-- ### Day 9: July 11, 2023, Tuesday ()
+
+**Today's Progress**: 
+
+**Thoughts**
+
+**Link(s) to work**
+1. []() -->
