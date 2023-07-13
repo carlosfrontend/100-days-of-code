@@ -103,6 +103,13 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 1. [Problem Solving](https://www.theodinproject.com/lessons/foundations-problem-solving)
 2. [Understanding Errors](https://www.theodinproject.com/lessons/foundations-understanding-errors)
 
+### Days 9, 10 and 11: July 10, 11 and 12 2023, (Project: Rock Paper Scissors Console Version)
+
+**Thoughts** I've been stuck in this project of the odin project for three days. To be continue ..
+
+**Link(s) to work**
+1. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+
 <!-- ### Day 9: July 11, 2023, Tuesday ()
 
 **Today's Progress**: 
