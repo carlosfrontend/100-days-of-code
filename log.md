@@ -110,6 +110,13 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 **Link(s) to work**
 1. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
+### Days 12, 13, 14, 15, 16 ,17 and 18: July 18 2023, Tuesday (Project: Rock Paper Scissors Console Version)
+
+**Thoughts** I've been stuck in this project of the odin project for several days. I finally got it!
+
+**Link(s) to work**
+1. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
+
 <!-- ### Day 9: July 11, 2023, Tuesday ()
 
 **Today's Progress**: 
