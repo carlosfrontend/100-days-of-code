@@ -117,6 +117,12 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 **Link(s) to work**
 1. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
+### Day 19: July 19, 2023, Wednesday (Object Oriented Programming)
+
+**Today's Progress**: Today I completed Object Oriented Programing course at FreeCodeCamp
+
+**Thoughts** It was easy for me but I'm sure I'll have to go over prototypes and inheritances again when I need them.
+
 <!-- ### Day 9: July 11, 2023, Tuesday ()
 
 **Today's Progress**: 
