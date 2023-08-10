@@ -117,6 +117,13 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 **Link(s) to work**
 1. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
+### Day 19: August 10, 2023, Thursday (Functional Programming)
+
+**Today's Progress**: I watched some video tutorials on array methods (forEach, map, filter, sort, reduce, every, find and some). I did some practice samples. Then I finished the Functional Programming lesson at freeCodeCamp.
+
+**Link(s) to work**
+1. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#functional-programmingwhere-do-i-belong)
+
 <!-- ### Day 9: July 11, 2023, Tuesday ()
 
 **Today's Progress**: 
