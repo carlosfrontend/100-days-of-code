@@ -124,6 +124,23 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 **Link(s) to work**
 1. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#functional-programmingwhere-do-i-belong)
 
+### Day 20: August 15, 2023, Tuesday (TOP: Fundamentals Part 4)
+
+**Today's Progress**: I finished Fundamentals Part 4 at The Odin Project.
+
+**Thoughts** I solved some exercises and test it with TDD:
+- helloWorld (This exercise is intentionally very simple to ensure that you have set up - everything properly!)
+- repeatString
+- reverseString
+- removeFromArray
+- sumAll
+- leapYears
+- tempConversion
+
+**Link(s) to work**
+1. [Fundamentals Part 4](https://www.theodinproject.com/lessons/foundations-fundamentals-part-4)
+
+
 <!-- ### Day 9: July 11, 2023, Tuesday ()
 
 **Today's Progress**: 
