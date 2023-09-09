@@ -1,6 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: July 2, 2023, Sunday (JavaScript Developer Tools)
+
 <!-- ##### (delete me or comment me out) -->
 
 **Today's Progress**: I finished the JavaScript Developer Tools lesson on The Odin Project platform and check out the additional resource Learn 14 tips and tricks in this [JavaScript 30 Video](https://www.youtube.com/watch?v=xkzDaKwinA8) by Wes Bos.
@@ -18,6 +19,7 @@
 **Thoughts** I had to stop and think about some of them for a long time but I finally got it.
 
 **Link(s) to work**
+
 1. [Add Key-Value Pairs to JavaScript Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/add-key-value-pairs-to-javascript-objects)
 2. [Modify an Object Nested Within an Object](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/modify-an-object-nested-within-an-object)
 3. [Access Property Names with Bracket Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/access-property-names-with-bracket-notation)
@@ -34,6 +36,7 @@
 **Thoughts** Today I got stuck for hours on the Factorialize a Number challenge and thanks to the help of the programming help channel on discord I was able to get through it. After this I felt great. My thanks to the people who offer their help in these channels for their understanding, work and dedication.
 
 **Link(s) to work**
+
 1. [Convert Celsius to Fahrenheit](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/convert-celsius-to-fahrenheit)
 2. [Reverse a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/reverse-a-string)
 3. [Factorialize a Number](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/factorialize-a-number)
@@ -42,7 +45,7 @@
 
 **Today's Progress**: I finished [Fundamentals Part 3](https://www.theodinproject.com/lessons/foundations-fundamentals-part-3) capitule in The Odin Projects about functions.
 
-**Thoughts** It has been a day full of theory. I was also practicing functions and watched a video about call stacks and how ```return``` works in the context of chained function calls.
+**Thoughts** It has been a day full of theory. I was also practicing functions and watched a video about call stacks and how `return` works in the context of chained function calls.
 
 ### Day 4: July 6, 2023, Thursday (Basic Algorithm Scripting)
 
@@ -51,6 +54,7 @@
 **Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
 **Link(s) to work**
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/find-the-longest-word-in-a-string)
 2. [Return Largest Numbers in Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/return-largest-numbers-in-arrays)
 3. [Confirm the Ending](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/confirm-the-ending)
@@ -64,6 +68,7 @@
 **Thoughts** They were quite difficult and left me exhausted. I hope I can finish the remaining three of this theme in the next round.
 
 **Link(s) to work**
+
 1. [Finders Keepers](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/finders-keepers)
 2. [Boo Who](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/boo-who)
 3. [Title Case a Sentence](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/title-case-a-sentence)
@@ -75,9 +80,10 @@
 **Today's Progress**: Today I continue with basic algorithm scripts in FreeCodeCamp.
 
 **Thoughts** I finally finished the three exercises that I had left of this subject. I feel much better after completing this phase.
-I struggled a long time with "Where do I Belong" because I wanted to solve it without using ```sort()```. After a lot of fighting I finally had to use it because it seemed extremely difficult without it.
+I struggled a long time with "Where do I Belong" because I wanted to solve it without using `sort()`. After a lot of fighting I finally had to use it because it seemed extremely difficult without it.
 
 **Link(s) to work**
+
 1. [Where do I Belong](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/where-do-i-belong)
 2. [Mutations](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/mutations)
 3. [Chunky Monkey](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-algorithm-scripting/chunky-monkey)
@@ -93,6 +99,7 @@ I struggled a long time with "Where do I Belong" because I wanted to solve it wi
 **Today's Progress**: I have read various troubleshooting guides and watched a video on this issue. I learned to use a sheet of paper and a pen to first write what the problem is about and explain it in a human way before starting to code. I also understood that the best way to deal with the problem is to divide it into subproblems, what is the pseudocode and how good it is to use comments so that other programmers or oneself understand what is desired with the algorithm to be programmed.
 
 I kept learning about errors and debugging in the odin project. I was debugging some exercises with the Chrome Dev Tool learning about the difference between an error and a warning and different types of errors like:
+
 - Syntax Error
 - Reference Error
 - Type Error
@@ -100,6 +107,7 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 **Thoughts** I understood that before programming an algorithm it is better to stop and think about how you would tell someone else about its development so that they understand it and put it on paper. Breaking this down into tiny bits and using pseudocode for it is the best way to go about it and not go blank in front of the code editor. It is a good starting point!.
 
 **Link(s) to work**
+
 1. [Problem Solving](https://www.theodinproject.com/lessons/foundations-problem-solving)
 2. [Understanding Errors](https://www.theodinproject.com/lessons/foundations-understanding-errors)
 
@@ -108,6 +116,7 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 **Thoughts** I've been stuck in this project of the odin project for three days. To be continue ..
 
 **Link(s) to work**
+
 1. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
 ### Days 12, 13, 14, 15, 16 ,17 and 18: July 18 2023, Tuesday (Project: Rock Paper Scissors Console Version)
@@ -115,6 +124,7 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 **Thoughts** I've been stuck in this project of the odin project for several days. I finally got it!
 
 **Link(s) to work**
+
 1. [Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors)
 
 ### Day 19: August 10, 2023, Thursday (Functional Programming)
@@ -122,6 +132,7 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 **Today's Progress**: I watched some video tutorials on array methods (forEach, map, filter, sort, reduce, every, find and some). I did some practice samples. Then I finished the Functional Programming lesson at freeCodeCamp.
 
 **Link(s) to work**
+
 1. [Functional Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures#functional-programmingwhere-do-i-belong)
 
 ### Day 20: August 15, 2023, Tuesday (TOP: Fundamentals Part 4)
@@ -129,6 +140,7 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 **Today's Progress**: I finished Fundamentals Part 4 at The Odin Project.
 
 **Thoughts** I solved some exercises and test it with TDD:
+
 - helloWorld (This exercise is intentionally very simple to ensure that you have set up - everything properly!)
 - repeatString
 - reverseString
@@ -138,14 +150,27 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 - tempConversion
 
 **Link(s) to work**
+
 1. [Fundamentals Part 4](https://www.theodinproject.com/lessons/foundations-fundamentals-part-4)
 
+### Day 21: September 9, 2023, Saturday (TOP: Fundamentals Rock Paper Scissors UI)
+
+**Today's Progress**: I finished Rock Paper Scissors Game and UI Project.
+
+**Thoughts** It took me several days to convert the above exercise from console to UI. I had to do several google searches to fix audio issues. To do this I finally had to use promises.
+
+**Link(s) to work**
+
+1. [Revisiting Rock Paper Scissors](https://www.theodinproject.com/lessons/foundations-revisiting-rock-paper-scissors)
+2. [Code here](https://github.com/carlosfrontend/rock-paper-scissors)
+3. [Preview here](https://carlosfrontend.github.io/rock-paper-scissors/)
 
 <!-- ### Day 9: July 11, 2023, Tuesday ()
 
-**Today's Progress**: 
+**Today's Progress**:
 
 **Thoughts**
 
 **Link(s) to work**
+
 1. []() -->
