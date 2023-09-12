@@ -165,6 +165,16 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 2. [Code here](https://github.com/carlosfrontend/rock-paper-scissors)
 3. [Preview here](https://carlosfrontend.github.io/rock-paper-scissors/)
 
+### Day 22: September 11, 2023, Tuesday (FCC: Intermediate Algorithm Scripting)
+
+**Today's Progress**: I did several challenges on [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Link(s) to work**
+
+1. [Sum All Numbers in a Range](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/sum-all-numbers-in-a-range)
+2. [Diff Two Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays)
+3. [Seek and Destroy](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy)
+
 <!-- ### Day 9: July 11, 2023, Tuesday ()
 
 **Today's Progress**:
