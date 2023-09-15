@@ -175,6 +175,16 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 2. [Diff Two Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/diff-two-arrays)
 3. [Seek and Destroy](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/seek-and-destroy)
 
+### Day 23: September 15, 2023, Friday (FCC: Intermediate Algorithm Scripting)
+
+**Today's Progress**: I did several challenges on [freeCodeCamp](https://www.freecodecamp.org/).
+
+**Link(s) to work**
+
+1. [Wherefore art thou](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/wherefore-art-thou)
+2. [Spinal Tap Case](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
+3. [Pig Latin](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin)
+
 <!-- ### Day 9: July 11, 2023, Tuesday ()
 
 **Today's Progress**:
