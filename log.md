@@ -185,8 +185,8 @@ I kept learning about errors and debugging in the odin project. I was debugging 
 2. [Spinal Tap Case](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/spinal-tap-case)
 3. [Pig Latin](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting/pig-latin)
 
-
 ### Day 24: September 25, 2023, Sunday (TOP: Project: Etch-a-Sketch
+
 Foundations Course)
 
 **Today's Progress**: I finished [Project: Etch-a-Sketch
@@ -197,6 +197,14 @@ Foundations Course](https://www.theodinproject.com/lessons/foundations-etch-a-sk
 1. [Code](https://github.com/carlosfrontend/etch-a-sketch)
 2. [Preview](https://carlosfrontend.github.io/etch-a-sketch/)
 
+### Day 25: October 2, 2023, Monday (TOP: Foundamentals Part 5 Foundations Course)
+
+**Today's Progress**: After two days I finished fundamental part 5
+[Foundations Course](https://www.theodinproject.com/lessons/foundations-fundamentals-part-5).
+
+**Link(s) to work**
+
+1. [Code](https://github.com/carlosfrontend/javascript-exercises)
 
 <!-- ### Day 9: July 11, 2023, Tuesday ()
 
